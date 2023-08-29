@@ -7,5 +7,5 @@ export async function GET(request: NextRequest) {
     }, 3000);
   });
 
-  return NextResponse.json({ hello: "world" });
+  return NextResponse.json({ hello: "omega" });
 }
